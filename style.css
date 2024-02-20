@@ -1,0 +1,35 @@
+*{
+    font-family: "Indie Flower", cursive;
+    font-size: 32px;
+}
+
+html body {
+    background-color: #2E1012;
+    background-image: url(./img/background.webp);
+    background-position: center;
+    background-size: 85%;
+    background-repeat: no-repeat;
+}
+
+.row {
+    height: 100vh;
+}
+
+.coluna-1, .coluna-2, .coluna-3 {
+    display: grid;
+    place-items: center;
+}
+
+.coluna-2 {
+    background-color: #F3CC4D;
+}
+
+p {
+    text-align: center;
+    width: 80%;
+}
+
+html .button {
+    background-color: #2E1012;
+    color: white;
+}

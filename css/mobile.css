@@ -1,0 +1,13 @@
+@media (max-width: 768px){
+    .coluna-2{
+        height: 150vh;
+    }
+
+    .coluna-3{
+        height: 40vh;
+    }
+
+    .coluna-3 img {
+        width: 100%;
+    }
+}
